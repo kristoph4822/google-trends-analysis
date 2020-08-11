@@ -8,6 +8,9 @@ Pierwszy notebook stanowi analizę API pytrends dla języka Python, które umoż
 
 ## Analiza GT
 Drugi notebook stanowi analizę możliwości użycia danych udostępnianych przez serwis Google Trends.
+
+
+
 ![image](https://user-images.githubusercontent.com/46055596/89943396-6df31c00-dc1e-11ea-845f-70a45c71c067.png)
 ![image](https://user-images.githubusercontent.com/46055596/89943477-8bc08100-dc1e-11ea-9da1-d383e4bda356.png)
 
